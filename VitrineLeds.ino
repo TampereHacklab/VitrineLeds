@@ -1,6 +1,9 @@
 /*
  * Tampere Hacklab vitrine led lights
  * 96 Neopixels, 32 per cabinet, 3 cabinets
+ * install neopixel library from https://github.com/adafruit/Adafruit_NeoPixel 
+ * and pro micro 5v/16mhz from https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide
+ * 
  */
 
 #include <Adafruit_NeoPixel.h>
